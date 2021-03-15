@@ -17,11 +17,9 @@ skills:
 
 onde me encontrar:
 
-<a href="https://www.linkedin.com/in/rfonseca87"><img src="https://github.com/reginokaa/reginokaa/blob/cbadf6b7327b3626d827e6e407495d37f3b1a2bc/016-linkedin-2.png" width="20"></img></a> [LinkedIn](https://www.linkedin.com/in/rfonseca87)
-
-<a href="https://www.instagram.com/reginokaa/"><img src="https://github.com/reginokaa/reginokaa/blob/main/023-instagram-logo.png" width="20"></img></a> [Instagram](https://www.instagram.com/reginokaa/)
-
-<a href="mailto:rfonseca87@hotmail.com"><img src="https://github.com/reginokaa/reginokaa/blob/main/022-email-1.png" width="20"></img></a> [Email](mailto:rfonseca87@hotmail.com)
+<a href="https://www.linkedin.com/in/rfonseca87"><img src="https://github.com/reginokaa/reginokaa/blob/cbadf6b7327b3626d827e6e407495d37f3b1a2bc/016-linkedin-2.png" width="18"></img></a> [LinkedIn](https://www.linkedin.com/in/rfonseca87)  
+<a href="https://www.instagram.com/reginokaa/"><img src="https://github.com/reginokaa/reginokaa/blob/main/023-instagram-logo.png" width="18"></img></a> [Instagram](https://www.instagram.com/reginokaa/)  
+<a href="mailto:rfonseca87@hotmail.com"><img src="https://github.com/reginokaa/reginokaa/blob/main/022-email-1.png" width="18"></img></a> [Email](mailto:rfonseca87@hotmail.com)  
 
 
 
