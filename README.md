@@ -2,7 +2,7 @@
 
 
 eu sou a Regina!  
-designer e projetista 3D que, depois de 10 anos de carreira na construção civil, senti que era hora de novos desafios e novos horizontes e decidi me tornar **desenvolvedora front-end!** 👩‍💻
+designer e projetista 3D que, depois de quase 10 anos de carreira na construção civil, senti que era hora de novos desafios e novos horizontes e decidi me tornar **desenvolvedora front-end!** 👩‍💻
 
 - mãe de pet 😽, de planta 🌱 e do Caio 👦🏼
 - movida a música 🎧 ~🎶
