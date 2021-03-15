@@ -15,9 +15,6 @@ skills:
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reginokaa&hide=html&layout=compact&theme=buefy"/> 
 
 
-
-***  
-
 onde me encontrar:
 
 <a href="https://www.linkedin.com/in/rfonseca87"><img src="https://github.com/reginokaa/reginokaa/blob/cbadf6b7327b3626d827e6e407495d37f3b1a2bc/016-linkedin-2.png" width="20"></img></a> [LinkedIn](https://www.linkedin.com/in/rfonseca87)
