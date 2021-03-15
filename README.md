@@ -1,7 +1,11 @@
-![](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
-
 ### olá!! <img src="https://github.com/reginokaa/reginokaa/blob/cbadf6b7327b3626d827e6e407495d37f3b1a2bc/030-hi.png" width="35"></img>
-***
+
+
+eu sou a Regina!  
+designer e projetista 3D que, depois de 10 anos de carreira na construção civil, decidiu que era a hora de novos desafios e novos horizontes. versão 2021: **desenvolvedora front-end!** 👩‍💻
+
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500px" align="center"></img>
+
 
 ***
 skills:
@@ -10,7 +14,8 @@ skills:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="35"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="35"></img>
+<img src="https://angular.kr/assets/images/logos/angularjs/AngularJS-Shield.svg" width="35"></img>
+***
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reginokaa&hide=html&layout=compact&theme=buefy"/> 
 
