@@ -16,7 +16,7 @@ skills:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="35"></img>
-<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="42"></img>
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="42"></img> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="35"></img>
 <img src="https://angular.kr/assets/images/logos/angularjs/AngularJS-Shield.svg" width="35"></img>
