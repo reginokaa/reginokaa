@@ -33,7 +33,6 @@ onde me encontrar:
 <a href="https://www.linkedin.com/in/rfonseca87"><img src="https://github.com/reginokaa/reginokaa/blob/cbadf6b7327b3626d827e6e407495d37f3b1a2bc/016-linkedin-2.png" width="18"></img></a> [LinkedIn](https://www.linkedin.com/in/rfonseca87)  
 <a href="https://www.instagram.com/reginokaa/"><img src="https://github.com/reginokaa/reginokaa/blob/main/023-instagram-logo.png" width="18"></img></a> [Instagram](https://www.instagram.com/reginokaa/)  
 <a href="mailto:rfonseca87@hotmail.com"><img src="https://github.com/reginokaa/reginokaa/blob/main/022-email-1.png" width="18"></img></a> [Email](mailto:rfonseca87@hotmail.com)    
-
 ***
 
 <img src="https://camo.githubusercontent.com/ed55c707fda76a586e183909c9501bd6cad8fc249efdc5a634ff85aa23584ea2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652532304c696b65253230612532304769726c2d2546302539462539362541342d626c756576696f6c65743f7374796c653d666f722d7468652d6261646765"></img>
