@@ -7,7 +7,7 @@ designer e projetista 3D que, depois de quase 10 anos de carreira na construçã
 - mãe de pet 😽, de planta 🌱 e do Caio 👦🏼
 - movida a música 🎧 ~🎶
 
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350px" align="center"></img>
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400px"></img>
 
 
 ***
@@ -19,7 +19,7 @@ skills:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="35"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="35"></img>
-<img src="https://angular.kr/assets/images/logos/angularjs/AngularJS-Shield.svg" width="35"></img>
+<img src="https://angular.kr/assets/images/logos/angularjs/AngularJS-Shield.svg" width="32"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="32"></img> 
 
 
