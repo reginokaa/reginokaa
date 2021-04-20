@@ -7,7 +7,7 @@ designer e projetista 3D que, depois de quase 10 anos de carreira na construçã
 - mãe de pet 😽, de planta 🌱 e do Caio 👦🏼
 - movida a música 🎧 ~🎶
 
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500px" align="center"></img>
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350px" align="center"></img>
 
 
 ***
