@@ -38,7 +38,7 @@ Eu gosto de criar e de ver o resultado dos meus projetos e, por isso, escolhi o 
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/reginokaa"></a>
 </p>  
 
-:label: *design gatos musica javascript cerveja fotografia html plantas dirigir css yoga neosoro angular vinho gambiarras por-do-sol pizza* 
+:label: *design gatos musica javascript cerveja fotografia html plantas dirigir css yoga neosoro angular vinho gambiarra batata por-do-sol pizza* 
 
 ***
 
