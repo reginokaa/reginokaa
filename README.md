@@ -5,7 +5,7 @@
 </p>
 
 
-Fui projetista 3D por uma década, mas, em 2020, decidi dizer adeus à construção civil e me entregar à paixão pela tecnologia ♡
+Fui projetista 3D por uma década, mas, em 2020, decidi dizer adeus à construção civil e me entregar à paixão pela tecnologia ♡  
 Eu gosto de criar e de ver o resultado dos meus projetos e, por isso, escolhi o Front-End!
 
 - **minhas skills:**
