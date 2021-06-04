@@ -16,8 +16,8 @@ Eu gosto de criar e de ver o resultado dos meus projetos e, por isso, escolhi o 
 <img src="https://camo.githubusercontent.com/c567bc8fea35a350406f3ad80e2ec6dd76dea5f756187908f35322bbbc8bc77c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702532302d2532333536334437432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465"></img>
 </p>
 
-<img width="400px" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reginokaa&hide=html&layout=compact"/> 
-
+<!-- <img width="400px" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reginokaa&hide=html&layout=compact"/> 
+ -->
 - **vamos conversar?**
 
 
