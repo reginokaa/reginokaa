@@ -21,19 +21,19 @@ Eu gosto de criar e de ver o resultado dos meus projetos e, por isso, escolhi o 
 
 
 <p align="center">
-  <a href="#" alt="Gmail">
+  <a href="mailto:reginokaa@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:reginokaa@gmail.com"></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/reginafonseca" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reginafonseca"></a>
 
-  <a href="#" alt="WhatsApp">
+  <a href="http://wa.me/5511980728480" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=http://wa.me/5511980728480"></a>
 
-  <a href="#" alt="Facebook">
+  <a href="https://web.facebook.com/reginokaa" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://web.facebook.com/reginokaa"></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/reginokaa" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/reginokaa"></a>
 </p>  
 
@@ -43,19 +43,3 @@ Eu gosto de criar e de ver o resultado dos meus projetos e, por isso, escolhi o 
 
 <img src="https://camo.githubusercontent.com/ed55c707fda76a586e183909c9501bd6cad8fc249efdc5a634ff85aa23584ea2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652532304c696b65253230612532304769726c2d2546302539462539362541342d626c756576696f6c65743f7374796c653d666f722d7468652d6261646765"></img>
 
-
-
-<!--
-**reginokaa/reginokaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
