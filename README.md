@@ -28,9 +28,6 @@ Eu gosto de criar e de ver o resultado dos meus projetos e, por isso, escolhi o 
   <a href="https://www.linkedin.com/in/reginafonseca" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reginafonseca"></a>
 
-  <a href="http://wa.me/5511980728480" alt="WhatsApp" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&labelColor=25d366&logo=whatsapp&logoColor=white&link=http://wa.me/5511980728480"></a>
-
   <a href="https://web.facebook.com/reginokaa" alt="Facebook" target="_blank">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&labelColor=3b5998&logo=facebook&logoColor=white&link=https://web.facebook.com/reginokaa"></a>
 
